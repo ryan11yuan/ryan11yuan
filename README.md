@@ -9,5 +9,5 @@
 
 ### Connect with me:
 
-[![instagram](./Desktop\Ryan Folder\Files\Websites And Github/instagram-light.svg)](https://www.instagram.com/ryan.yuan11/#gh-light-mode-only)
-[![instagram](./Desktop\Ryan Folder\Files\Websites And Github/instagram-dark.svg)](https://www.instagram.com/ryan.yuan11/#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/ryan.yuan11#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/ryan.yuan11#gh-dark-mode-onlyryan/ryan.yuan111
