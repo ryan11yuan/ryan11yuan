@@ -6,6 +6,3 @@
 - 📫 How to reach me: https://www.instagram.com/ryan.yuan11/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love to play soccer!
-
-### Connect with me:
-instagram.com/ryan.yuan11
