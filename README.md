@@ -8,6 +8,4 @@
 - ⚡ Fun fact: I love to play soccer!
 
 ### Connect with me:
-
-[![website](./img/instagram-light.svg)](https://instagram.com/ryan.yuan11#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/ryan.yuan11#gh-dark-mode-onlyryan/ryan.yuan111
+instagram.com/ryan.yuan11
