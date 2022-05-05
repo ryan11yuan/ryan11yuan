@@ -1,4 +1,4 @@
-### Hi there 👋
+### About me:
 
 - 🔭 I’m currently working on sharpening my coding skills and deepening my knowledge
 - 👯 I’m looking to collaborate on website projects
@@ -6,3 +6,4 @@
 - 📫 How to reach me: https://www.instagram.com/ryan.yuan11/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love to play soccer!
+
