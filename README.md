@@ -1,4 +1,10 @@
-## Hi! I'm Ryan Yuan:
+# 👋 Hi there, I'm Ryan
 
-How to reach me: https://www.instagram.com/ryan.yuan11/
+Welcome to my GitHub!  
+I'm a computer science student and software developer that loves creating new things.  
 
+### 🌐 Portfolio
+Check out my latest work
+👉 [**Site**](https://ryanyuan-projectportfolio.vercel.app/)  
+
+Feel free to explore my repos and reach out anytime.
